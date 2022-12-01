@@ -1,3 +1,10 @@
 /* This is a comment in CSS. All this CSS would be an external style sheet named .css */
-span {}
-.order {}
+span {color:lime;
+}
+.order {color:purple;
+}
+#wrapper {
+    margin-left: auto;
+    Width: 500px;
+    margin-right:auto;
+}
